@@ -6,7 +6,7 @@ wildlife and assist in wildlife conservation efforts. I’d like the opportunity
 
 ### <U>Education</U>  
 **Bachlors of Science Biology** 
-Concentration in Ecology, Evolution, and Enviromental Studies, *May 2026*
+Concentration in Ecology, Evolution, and Enviromental Studies, *May 2026*     
 **Geospatial Information Systems Certification**, *May 2026*   
      
 Appalachian State University, Boone NC   
@@ -69,4 +69,5 @@ experiment testing inter/intraspecific competitions between plants
 **Appalachian State University Gospel Choir**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Jan 2024-Present**
 - Learn and perform gospel music
 - Work with a group of people towards a common goal.
+
 
